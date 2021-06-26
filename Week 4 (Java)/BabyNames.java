@@ -266,7 +266,7 @@ public class BabyNames
 		
 		// System.out.println(getTotalBirthsRankedHigher(2012, "Ethan", "M"));
 	}
-
+        //Object calling
 	public static void main() 
 	{
 		BabyNames names = new BabyNames();
