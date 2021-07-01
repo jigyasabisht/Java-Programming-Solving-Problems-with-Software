@@ -11,10 +11,10 @@ I completed this course in a month. The [link to the certificate](https://drive.
 
 ## What I learned from the Course and The Seven Step Approach
 1. Work Example By Hand
-    *Solve small instance by hand
-    *Unclear problem?
-    *Need domain knowledge?
-   ### Edit, compile, and run a Java program
+      1.Solve small instance by hand
+      2.Unclear problem?
+      3.Need domain knowledge?
+   
 2. Write Down What You Did
     >Write down exact steps
     >Just that instance
